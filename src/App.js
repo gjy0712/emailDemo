@@ -1,6 +1,6 @@
-import React, { component } from 'react';
+import React from 'react';
 import './App.css';
-import { Button } from 'element-react';
+// import { Button } from 'element-react';
 
 import 'element-theme-default';
 
