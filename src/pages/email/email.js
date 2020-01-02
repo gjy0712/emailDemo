@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './email.less';
 import { Layout, Menu } from 'element-react'
+// import { Router, Route, Link } from 'react-router'
 
 import EmailTable from './email-table/email-table'
 
