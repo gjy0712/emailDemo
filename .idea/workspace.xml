@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fce65743-5c77-4b88-8d7e-d051a5bd395e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/email/email-detail/email-detail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/router/routeMap.js" afterDir="false" />
+    <list default="true" id="fce65743-5c77-4b88-8d7e-d051a5bd395e" name="Default" comment="npm react-router">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/email/email.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/email/email.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,6 +35,7 @@
   <component name="ProjectId" id="1VopcVw1wX4dOf9RmAa6r4XrLES" />
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="Less" />
@@ -49,7 +47,7 @@
     <property name="node.js.selected.package.standard" value="D:\Webstorm workspaces\study\emaildemo\node_modules\eslint" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -86,8 +84,20 @@
       <updated>1577864682050</updated>
       <workItem from="1577864683468" duration="160000" />
       <workItem from="1577890334753" duration="4510000" />
-      <workItem from="1577929416204" duration="7445000" />
+      <workItem from="1577929416204" duration="10456000" />
+      <workItem from="1578015410622" duration="2101000" />
+      <workItem from="1578029361830" duration="1795000" />
+      <workItem from="1578275343146" duration="2552000" />
+      <workItem from="1578553305982" duration="2930000" />
     </task>
+    <task id="LOCAL-00001" summary="npm react-router">
+      <created>1577943298266</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577943298266</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,10 +108,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="npm react-router" />
+    <option name="LAST_COMMIT_MESSAGE" value="npm react-router" />
   </component>
 </project>
